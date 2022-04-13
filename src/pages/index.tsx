@@ -1,6 +1,5 @@
 import Head from 'next/head'
 
-import RocketseatLogo from '../assets/rocketseat.svg'
 
 import { Container } from '../styles/pages/Home'
 
